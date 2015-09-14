@@ -1,5 +1,7 @@
 Requirements:
+=============
+
  - Python
  - Pandas, Numpy, Scipy, Scikit-learn - latest libraries
  - XGBoost - https://github.com/dmlc/xgboost
- - Pypy
+ - Pypy (to run the ftrl code faster)
