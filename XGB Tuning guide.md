@@ -6,7 +6,7 @@ Typically, people use 5 folds. You can make a choice. To see the reliability of 
 Steps:
 -----
   1. Decide 'n' in n-fold. Stick to it for complete analysis.
-  2. Cr eate a baseline score using a simple model.
+  2. Create a baseline score using a simple model.
   3. Now, use XGBoost default settings and establish another XGB baseline score.
   4. Put num_trees at 10000 and a tiny learning rate of 0.01.
   5. Try step(4) for various max_depth.
